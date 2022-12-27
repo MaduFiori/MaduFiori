@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**MaduFiori/MaduFiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div>
+	<img height "180em" src"https://github-readme-status.vercel.app/api?username=MaduFiorishow_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
