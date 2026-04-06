@@ -70,4 +70,6 @@ Estou sempre buscando evoluir tecnicamente e construir soluções escaláveis e 
 💬 Aberta a oportunidades, networking e troca de conhecimento em Engenharia de Dados
 </p>
 
-<img src="https://raw.githubusercontent.com/MaduFiori/MaduFiori/output/github-contribution-grid-snake.svg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaduFiori/MaduFiori/output/github-contribution-grid-snake-dark.svg">
+</p>
