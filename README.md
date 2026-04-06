@@ -1,133 +1,71 @@
 # 👩🏻‍💻 Maria Eduarda Fiori
 
-**`Estagiária Engenharia de dados`**
+🎯 Estagiária em Engenharia de Dados | Python | PySpark | SQL | Databricks  
+📍 São Paulo, Brasil  
 
-Me chamo Maria Eduarda Fiori, tenho 23 anos. Concluí o ensino médio no IFSP, com o curso técnico em eletrônica, fiz também os cursos de Técnico em informática no Senac e Desenvolvimento de sistemas na ETEC. Atualmente, estou cursando Sistemas de Informção na Fiap. 
-Estou atuando como estagiária em Engenharia de dados na Juntos Somos Mais, no meu dia a dia trabalho com Python, pySpark, SQL e Databricks.
+💡 Apaixonada por dados, pipelines e transformação de informação em valor.
 
-<p align="left">
-    <a href="https://github.com/MaduFiori?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MaduFiori?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    
+## 🚀 Sobre mim
+
+Sou estudante de Sistemas de Informação e atuo como estagiária em Engenharia de Dados na Juntos Somos Mais.
+
+Tenho experiência prática com construção de pipelines e transformação de dados utilizando **Python, PySpark, SQL e Databricks**, além de conhecimentos em **Java e desenvolvimento backend com Spring**.
+
+🎯 Foco em:
+- Engenharia de dados (ETL/ELT)
+- Modelagem de dados (camadas bronze, silver, gold)
+- Java, POO e Spring
+
+Estou sempre buscando evoluir tecnicamente e construir soluções escaláveis e eficientes.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Disponível%20para-Oportunidades-success?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
+#### 💻 Linguagens
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
+</p>
 
-<br/>
-<br/>
+#### 🗄️ Data & Engenharia
+<p>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px"/>
+</p>
 
-### 🤖 Contato
- <a href = "mailto:fiori22eduarda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/mariaeduardafiori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
----
+#### ⚙️ Backend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30px"/>
+</p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaduFiori/MaduFiori/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaduFiori/MaduFiori/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaduFiori/MaduFiori/output/github-contribution-grid-snake.svg">
-</picture>
+#### ☁️ Cloud & Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30px"/>
+</p>
+
+ ## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="mailto:fiori22eduarda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mariaeduardafiori" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+💬 Aberta a oportunidades, networking e troca de conhecimento em Engenharia de Dados
+</p>
