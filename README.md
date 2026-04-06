@@ -69,3 +69,5 @@ Estou sempre buscando evoluir tecnicamente e construir soluções escaláveis e 
 <p align="center">
 💬 Aberta a oportunidades, networking e troca de conhecimento em Engenharia de Dados
 </p>
+
+<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
